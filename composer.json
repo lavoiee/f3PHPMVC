@@ -1,0 +1,14 @@
+{
+    "name": "lavoiee/fatfreetutorial",
+    "description": "A tutorial example by Mark Takacs",
+    "type": "project",
+    "authors": [
+        {
+            "name": "lavoiee",
+            "email": "ericjohnlavoie@gmail.com"
+        }
+    ],
+    "require": {
+			"bcosca/fatfree": "3.6.0"
+		}
+}
